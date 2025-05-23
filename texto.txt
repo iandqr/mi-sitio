@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DEF SOLUTIONS</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Navegación principal -->
+  <nav class="main-nav">
+    <ul>
+      <li><a href="#catalogo">Catálogo</a></li>
+      <li><a href="#ventas">Ventas</a></li>
+      <li><a href="#horarios">Horarios</a></li>
+    </ul>
+  </nav>
+
+  <!-- Hero/banner -->
+  <header class="hero">
+    <img src="banner.jpg" alt="Servicio Técnico DEF Solutions">
+    <div class="hero-text">
+      <h1>DEF SOLUTIONS</h1>
+      <p>Venta de consolas • Accesorios para consolas • Catálogo de juegos</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- Extensiones -->
+    <section id="catalogo">
+      <h2>Catálogo</h2>
+      <p>Explora nuestro catálogo completo de consolas, accesorios y juegos. Siempre con las últimas novedades y las mejores ofertas.</p>
+    </section>
+
+    <section id="ventas">
+      <h2>Ventas</h2>
+      <p>Compra de forma segura y cómoda. Ofrecemos envío a domicilio y recogida en tienda. Métodos de pago: tarjeta, transferencia y efectivo.</p>
+    </section>
+
+    <section id="horarios">
+      <h2>Horarios</h2>
+      <ul>
+        <li>Lunes a Viernes: 10:00 – 19:00</li>
+        <li>Sábado: 11:00 – 17:00</li>
+        <li>Domingo: Cerrado</li>
+      </ul>
+    </section>
+
+    <!-- Secciones originales -->
+    <section id="consolas">
+      <h2>Venta de Consolas</h2>
+      <p>Encuentra las últimas consolas de todas las marcas: Xbox, PlayStation, Nintendo y más.</p>
+    </section>
+
+    <section id="accesorios">
+      <h2>Accesorios para Consolas</h2>
+      <p>Mandos, audífonos, bases de carga y todo lo que necesitas para mejorar tu experiencia de juego.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 DEF SOLUTIONS</p>
+    <p>Contacto: Ernest – 55080729</p>
+  </footer>
+
+</body>
+</html>
